@@ -85,3 +85,8 @@ img, iframe {
 iframe {
     border: none;
 }
+
+.tableau-container {
+    margin-top: 30px;
+}
+
